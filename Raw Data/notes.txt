@@ -1,0 +1,1 @@
+Will add more details about the azure data factory notes and its steps
